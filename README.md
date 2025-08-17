@@ -1,7 +1,3 @@
-¡Perfecto, Rafael! Crear un README es clave para que cualquiera que vea tu proyecto entienda rápidamente de qué se trata y cómo usarlo. Te propongo un **README.md completo y profesional** para tu conversor de monedas, siguiendo buenas prácticas de GitHub:
-
----
-
 # Conversor de Monedas – Proyecto ONE
 
 ## Descripción
