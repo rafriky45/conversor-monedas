@@ -11,7 +11,7 @@ public class ConversionService {
     private static final Gson gson = new Gson();
 
     // ✅ Pega aquí tu API Key de ExchangeRate-API
-    private static final String API_KEY = "a207b5f388d2a7bdfacd1670";
+    private static final String API_KEY = "TU_API_KEY_AQUI";
 
     // Lista de monedas disponibles
     private static final String[] MONEDAS = {"USD", "ARS", "BRL", "COP", "CLP"};
